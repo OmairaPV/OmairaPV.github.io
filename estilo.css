@@ -10,6 +10,7 @@ h1 {
 }
 
 .S7 {
+    align-items: center;
     width: 1300px;
     height: 450px;
     background-color: #c3ccd6;
@@ -48,21 +49,10 @@ h1 {
     align-items: center;
 }
 
-#S7 .D4 {
-    width: 300px;
-    height: 150px;
-    float: right;
-    align-self: center;
-    background-color: #ffffff;
-    margin-left: 5px;
-    text-align: center;
-    align-items: center;
-}
-
 #S1 {
     width: 1300px;
     height: 70px;
-    background-color: #4a91e4;
+    background-color: #ad0ba0;
 }
 
 #S6 {
