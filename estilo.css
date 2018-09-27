@@ -1,11 +1,13 @@
-header {
-    width: 1500px;
-    height: 50px;
+header {}
+
+h1 {
+    width: 1300px;
+    height: 45px;
     background-color: #4a91e4;
 }
 
 #S1 {
-    width: 1500px;
+    width: 1300px;
     height: 70px;
     background-color: #4a91e4;
 }
