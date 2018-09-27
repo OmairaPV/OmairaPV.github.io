@@ -1,45 +1,63 @@
-body {
-    width: 960px;
-    height: 800px;
-    margin: 0px auto 0px auto;
+header {
+    width: 1500px;
+    height: 230px;
 }
 
-.D1 {
-    width: 960px;
-    height: 50px;
-    margin: 0px auto 0px auto;
+h1 {
+    width: 1300px;
+    height: 45px;
+    background-color: #4a91e4;
+}
+
+.S7 {
+    align: center;
+    align-items: center;
+    width: 1300px;
+    height: 450px;
+    background-color: #c3ccd6;
+}
+
+#S7 .D1 {
+    width: 240px;
+    height: 150px;
+    float: left;
+    align-self: center;
+    background-color: grey;
+    margin-left: 35px;
     text-align: center;
+    align-items: center;
 }
 
-.INDICE {
-    width: 260px;
-    height: 400px;
+#S7 .D2 {
+    width: 600px;
+    height: 150px;
     float: left;
+    align-self: center;
+    background-color: grey;
+    margin-left: 35px;
+    text-align: center;
+    align-items: center;
 }
 
-.DETALLE {
-    width: 700px;
-    height: 600px;
+#S7 .D3 {
+    width: 300px;
+    height: 150px;
     float: left;
+    align-self: center;
+    background-color: grey;
+    margin-left: 35px;
+    text-align: center;
+    align-items: center;
 }
 
-.CA {
-    width: 215px;
-    height: 200px;
-    float: left;
-    margin-left: 0px;
+#S1 {
+    width: 1500px;
+    height: 70px;
+    background-color: #4a91e4;
 }
 
-.CB {
-    margin-left: 5px;
-    width: 200px;
-    height: 300px;
-    float: left;
-}
-
-.CC {
-    margin-left: 5px;
-    width: 205px;
-    height: 300px;
-    float: left;
+#S6 {
+    width: 1300px;
+    height: 70px;
+    background-color: #ffffff;
 }
