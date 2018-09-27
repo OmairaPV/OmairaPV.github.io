@@ -7,3 +7,21 @@ body {
 #D1 {
     align: center;
 }
+
+S1 #D2 {
+    width: 260px;
+    height: 100px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    align-items: center;
+}
+
+S2 #D3 {
+    width: 700px;
+    height: 100px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    align-items: center;
+}
