@@ -25,3 +25,33 @@ S2 #D3 {
     text-align: center;
     align-items: center;
 }
+
+S3 #D6 {
+    width: 200px;
+    height: 50px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    margin-left: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+S3 #D7 {
+    width: 200px;
+    height: 50px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    margin-left: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+S3 #D8 {
+    width: 200px;
+    height: 50px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    margin-left: 20px;
+    text-align: center;
+    align-items: center;
+}
