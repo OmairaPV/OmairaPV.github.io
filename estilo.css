@@ -3,15 +3,3 @@
         height: 900px;
         background-color: #900C3F;
     }
-    
-    section {
-        width: 700px;
-        height: 500px;
-        margin: 0px auto 0px auto;
-        border-right: black 5px dashed;
-        border-left: black 5px dashed;
-    }
-    
-    .div1 {
-        background-color: #900C3F;
-    }
