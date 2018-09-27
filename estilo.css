@@ -1,57 +1,45 @@
 body {
-    height: 960px;
-    width: 100%;
+    width: 960px;
+    height: 800px;
     margin: 0px auto 0px auto;
 }
 
-#D1 {
-    align: center;
+.D1 {
+    width: 960px;
+    height: 50px;
+    margin: 0px auto 0px auto;
+    text-align: center;
 }
 
-S1 #D2 {
+.INDICE {
     width: 260px;
-    height: 100px;
+    height: 400px;
     float: left;
-    background-color: rgb(255, 255, 255);
-    text-align: center;
-    align-items: center;
 }
 
-S2 #D3 {
+.DETALLE {
     width: 700px;
-    height: 100px;
+    height: 600px;
     float: left;
-    background-color: rgb(255, 255, 255);
-    text-align: center;
-    align-items: center;
 }
 
-S3 #D6 {
-    width: 200px;
-    height: 50px;
+.CA {
+    width: 215px;
+    height: 300px;
     float: left;
-    background-color: rgb(255, 255, 255);
-    margin-left: 20px;
-    text-align: center;
-    align-items: center;
+    margin-left: 0px;
 }
 
-S3 #D7 {
-    width: 200px;
-    height: 50px;
+.CB {
+    margin-left: 5px;
+    width: 220px;
+    height: 300px;
     float: left;
-    background-color: rgb(255, 255, 255);
-    margin-left: 20px;
-    text-align: center;
-    align-items: center;
 }
 
-S3 #D8 {
-    width: 200px;
-    height: 50px;
+.CC {
+    margin-left: 5px;
+    width: 215px;
+    height: 300px;
     float: left;
-    background-color: rgb(255, 255, 255);
-    margin-left: 20px;
-    text-align: center;
-    align-items: center;
 }
