@@ -1,4 +1,7 @@
-header {}
+header {
+    width: 1300px;
+    height: 350px;
+}
 
 h1 {
     width: 1300px;
@@ -48,11 +51,11 @@ h1 {
 #S1 {
     width: 1300px;
     height: 70px;
-    background-color: #b84ae4;
+    background-color: #4a91e4;
 }
 
 #S6 {
     width: 1300px;
     height: 70px;
-    background-color: #85898d;
+    background-color: #ffffff;
 }
