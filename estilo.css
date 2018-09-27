@@ -48,6 +48,17 @@ h1 {
     align-items: center;
 }
 
+.D4 {
+    width: 300px;
+    height: 150px;
+    float: left;
+    align-self: center;
+    background-color: #ffffff;
+    margin-left: 5px;
+    text-align: center;
+    align-items: center;
+}
+
 #S1 {
     width: 1300px;
     height: 70px;
