@@ -10,6 +10,7 @@ h1 {
 }
 
 .S7 {
+    align: center;
     align-items: center;
     width: 1300px;
     height: 450px;
@@ -19,7 +20,7 @@ h1 {
 #S7 .D1 {
     width: 300px;
     height: 150px;
-    float: left;
+    float: center;
     align-self: center;
     background-color: grey;
     margin-left: 35px;
@@ -30,7 +31,7 @@ h1 {
 #S7 .D2 {
     width: 600px;
     height: 150px;
-    float: left;
+    float: center;
     align-self: center;
     background-color: grey;
     margin-left: 35px;
@@ -41,7 +42,7 @@ h1 {
 #S7 .D3 {
     width: 300px;
     height: 150px;
-    float: left;
+    float: center;
     align-self: center;
     background-color: grey;
     margin-left: 35px;
@@ -52,7 +53,7 @@ h1 {
 #S1 {
     width: 1300px;
     height: 70px;
-    background-color: #ad0ba0;
+    background-color: #4a91e4;
 }
 
 #S6 {
