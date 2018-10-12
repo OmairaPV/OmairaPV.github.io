@@ -13,5 +13,5 @@
             pokebolaImg.src = "/imagenes/pokebola1.jpg";
             flag = 0;
         }
-    }
+    };
 })();
