@@ -7,10 +7,10 @@
 
         var pokeballImg = document.getElementById("icon01");
         if (flag == 0) {
-            pokeballImg.src = "OMAIRAPV.GITHUB.IO/imagenes/pokela2.jpg";
+            pokeballImg.src = "/imagenes/pokela2.jpg";
             flag = 1;
         } else {
-            pokebolaImg.src = "OMAIRAPV.GITHUB.IO/imagenes/pokebola1.jpg";
+            pokebolaImg.src = "/imagenes/pokebola1.jpg";
             flag = 0;
         }
     }
